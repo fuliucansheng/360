@@ -19,14 +19,11 @@
 ![整体结构](./img/sys.jpg)
 
 #### 模型结构
-##### CNN
-![CNN](./img/CNN.jpg)
+![CNN](./img/CNN.jpg){:width="500px"}
 
-##### HAN
-![HAN](./img/HAN.jpg)
+![HAN](./img/HAN.jpg){:width="500px"}
 
-##### HCN
-![HCN](./img/HCN.jpg)
+![HCN](./img/HCN.jpg){:width="500px"}
 
 ##### 模型分数
 
