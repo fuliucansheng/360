@@ -1,5 +1,5 @@
 # 360机器写作与人类写作的巅峰对决
-[赛题链接](http://www.datafountain.cn/#/competitions/276/intro)
+baseline队(3/589)&nbsp;&nbsp;|&nbsp;&nbsp;[赛题链接](http://www.datafountain.cn/#/competitions/276/intro)
 
 #### 任务：
 根据上下文语法语义的一致性与连续性，判断文章是否为人类写作。
