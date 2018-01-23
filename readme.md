@@ -12,19 +12,6 @@
 | 初赛Part2    |   30w(6w+, 24w-) |  25w  |
 | 复赛    |   60w(24w+, 36w-) |  40w  |
 
-#### 流程
-![处理流程](./img/flow.jpg)
-
-#### 整体结构
-![整体结构](./img/sys.jpg)
-
-#### 模型结构
-![CNN](./img/CNN.jpg){:width="500px"}
-
-![HAN](./img/HAN.jpg){:width="500px"}
-
-![HCN](./img/HCN.jpg){:width="500px"}
-
 ##### 模型分数
 
 | 模型      |     类型 |   分数   |
