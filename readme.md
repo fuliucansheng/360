@@ -29,7 +29,7 @@ baseline队(3/589)&nbsp;&nbsp;|&nbsp;&nbsp;[赛题链接](http://www.datafountai
 * libs 引用的开源组件
 * models 模型代码
 * train 模型训练脚本
-* utils 数据及其他脚本
+* utils 数据处理及其他脚本
 
 ##### 运行说明
 ```bash
