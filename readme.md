@@ -33,10 +33,6 @@ baseline队(3/589)&nbsp;&nbsp;|&nbsp;&nbsp;[赛题链接](http://www.datafountai
 
 ##### 运行说明
 ```bash
-## 获取数据集
-sh ./data/get_final_data.sh
-## 获取ltp库
-sh ./libs/get_ltp.sh
 ## 预训练词向量
 python3 ./utils/w2v.py
 ## 构建线下训练验证集，生成序列文件
