@@ -17,7 +17,7 @@ from keras.models import *
 from keras.optimizers import *
 from keras.callbacks import *
 from utils.others import *
-from models.deepmodel import *
+from models.deepzoo import *
 
 print("Load Train && Val")
 train = pd.read_csv(Config.cache_dir+"/train_.csv",sep="\t")
